@@ -1,0 +1,7 @@
+Source File Location in code: \code\emplyees-analysis\emplyees-analysis\src\main\resources\employees.csv
+Source File Location for test cases in code: \code\emplyees-analysis\emplyees-analysis\src\test\resources\test_employees.csv
+
+Jacoco plugin added to see the code coverages. After building (i.e. "mvn clean install" command) the code we can see the result in below location under target folder.
+Run maven command in "\code\emplyees-analysis\emplyees-analysis" location.
+Jacoco Location in code after build: \code\emplyees-analysis\emplyees-analysis\target\site\jacoco
+
